@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1QCXwjwblIAAsZWoVeXLnaaq70g30HV2+1F/wY33mDwnoIdDBJ/3lw2LvmKBqnPBVTEEgMPKCG8YTurtU0/ig==",
+  "success": true,
+  "projectFilePath": "/Users/louiew/Repos/Coursework/.net_5_rest_api/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/louiew/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/louiew/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/louiew/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/louiew/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/louiew/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/louiew/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
